@@ -127,6 +127,11 @@ return `✘ *I N F O - B O T*
 
 ⌕ manga
 ⌕ otakudesu
+⌕ megumin
+⌕ waifu
+⌕ neko
+⌕ shinobu
+⌕ awoo
 ⌕ husbu
 ⌕ neko2
 
