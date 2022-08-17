@@ -55,6 +55,7 @@ return `✘ *I N F O - B O T*
 ⌕ orangpintar
 ⌕ orangbego
 ⌕ anakbuangan
+⌕ couple
 
 ✘ *C O N V E R T - M E N U*
 
