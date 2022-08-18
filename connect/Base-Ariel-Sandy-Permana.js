@@ -2041,7 +2041,7 @@ case 'play': case 'ytplay':{
 case 'menu2': {
 const allmenuea = `✘ *I N F O - B O T*
 
-⌕ Nama Owner : *${global.author}*
+⌕ Nama Owner : *Ariel SP*
 ⌕ Nama Bot : *${global.botname}*
 ⌕ Nomor Owner : wa.me/${global.premium}
 
