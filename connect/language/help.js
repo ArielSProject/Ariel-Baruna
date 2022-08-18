@@ -23,7 +23,6 @@ return `✘ *I N F O - B O T*
 ✘ *O W N E R - M E N U*
 
 ⌕ join
-⌕ getcase
 ⌕ creategc
 ⌕ block
 ⌕ unblock
