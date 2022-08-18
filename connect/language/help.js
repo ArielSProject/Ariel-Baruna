@@ -138,7 +138,6 @@ return `✘ *I N F O - B O T*
 ✘ *D O W N L O A D - M E N U*
 
 ⌕ play
-⌕ playmp4
 ⌕ ytmp3
 ⌕ ytmp4
 ⌕ tiktoknowm
